@@ -1,6 +1,8 @@
 # Medicare Fraud Detection: A Data-Driven Strategy
 
-A machine learning and analytics project that detects and prevents Medicare fraud using public Medicare Part D datasets, predictive modeling, and interactive Power BI dashboards.
+> **Turning $50B+ in Medicare Part D improper payments into a data-driven early-warning system — fusing machine learning, rule-based intelligence, and interactive dashboards into one end-to-end anti-fraud strategy.**
+
+We combine predictive fraud scoring with domain-informed rules and real-time Power BI visualizations, so CMS investigators can catch suspicious claims faster, flag more risky payments before they go out, and defend taxpayer dollars at scale.
 
 ## 📋 Project Overview
 
