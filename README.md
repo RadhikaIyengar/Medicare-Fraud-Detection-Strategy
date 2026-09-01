@@ -8,16 +8,6 @@ Medicare fraud costs the U.S. healthcare system over **$100 billion annually**. 
 
 Built as a group project for the **Data Driven Organization** course at Yeshiva University.
 
-## 👥 Team
-
-| Name | Role |
-|------|------|
-| **Radhika Pujari** | Project Lead & Data Analyst |
-| **Drashti Patel** | Data Analyst |
-| **Mihir Sachdev** | Data Analyst |
-| **Jinrong Chen** | Data Analyst |
-| **Nikhil Anand** | Data Analyst |
-
 ## 🎯 Key Results
 
 | Metric | Value |
