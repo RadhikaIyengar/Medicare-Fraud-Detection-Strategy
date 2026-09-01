@@ -21,15 +21,30 @@ Built as a group project for the **Data Driven Organization** course at Yeshiva 
 | Automated Screening | **85% of claims** screened automatically, reducing manual checks |
 | Staff Training | **100% of fraud staff** trained on new tools and dashboards |
 
-## 📊 Project Structure
+## 📊 Dashboards
+
+We developed **two interactive Power BI dashboards** to help CMS understand Medicare fraud patterns and prioritize actions. Both feature drill-downs, dynamic filters, and cross-visual filtering for real-time exploration.
+
+### Dashboard 1: Fraud Trends & Impact Overview
+Provides a high-level view of fraud trends and impact across time and geography.
+
+![Dashboard Overview](assets/images/dashboard_overview.png)
+
+### Dashboard 2: Provider & Regional Deep Dive
+Focuses on deeper insights to identify key areas and actors for potential intervention.
+
+![Dashboard Deep Dive](assets/images/dashboard_deep_dive.png)
+
+## 📂 Project Structure
 
 ```
 GroupA_Project_Medicare_Fraud_Detection/
+├── assets/images/                                            # Dashboard screenshots
 ├── Medicare Fraud Detection_ A Data-Driven Strategy.pptx   # Presentation slides
 ├── Medicare_Fraud_Dashboards.pbix                            # Power BI dashboards
 ├── Medicare_Fraud_Report.pdf                                 # Full project report
 ├── Datasets_Medicare.zip                                     # Source data (Kaggle Medicare datasets)
-├── Dashboard_Demo.zip                                        # Dashboard demo files
+├── Dashboard_Demo.zip                                        # Dashboard demo video
 └── README.md                                                 # This file
 ```
 
